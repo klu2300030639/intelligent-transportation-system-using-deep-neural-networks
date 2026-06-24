@@ -29,4 +29,4 @@ The model is trained on the BDD100K dataset and is designed for real-time traffi
 - Road Safety Analysis
 
 ## Conference Publication
-Accepted (Provisional) at the AI Powered Technology Integration for Sustainability (AI-PTIS 2026) Conference.
+Accepted (Provisional) at AI-PTIS 2026.
