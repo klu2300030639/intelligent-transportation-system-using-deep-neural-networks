@@ -43,7 +43,7 @@ This project utilizes the BDD100K (Berkeley DeepDrive 100K) dataset, which conta
 - Road Safety Analysis
 
 ## Conference Publication
-Accepted (Provisional) at the International Conference on AI-Powered Technology Integration for Sustainability (AI-PTIS 2026).
+This work has been provisionally accepted for presentation and publication at the International Conference on AI-Powered Technology Integration for Sustainability (AI-PTIS 2026).
 
 ## Future Work
 - Improve small-object detection accuracy.
