@@ -30,3 +30,26 @@ The model is trained on the BDD100K dataset and is designed for real-time traffi
 
 ## Conference Publication
 Accepted (Provisional) at AI-PTIS 2026.
+
+## Project Results
+
+### Training Results
+![Training Results](training_results.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Normalized Confusion Matrix
+![Normalized Confusion Matrix](normalized_confusion_matrix.png)
+
+### Precision-Recall Curve
+![Precision Recall Curve](precision_recall_curve.png)
+
+### F1 Score Curve
+![F1 Score Curve](f1_score_curve.png)
+
+### Traffic Detection Output
+![Traffic Detection Output](traffic_detection_output.jpg)
+
+### Dense Traffic Detection Output
+![Dense Traffic Detection Output](dense_traffic_detection_output.jpg)
