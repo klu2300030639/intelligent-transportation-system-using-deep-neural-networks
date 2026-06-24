@@ -13,14 +13,28 @@ The system detects and classifies traffic objects such as:
 
 The model is trained on the BDD100K dataset and is designed for real-time traffic monitoring and smart city applications.
 
+## Objective
+The objective of this project is to develop a real-time traffic object detection system using deep learning techniques to support intelligent transportation systems, traffic monitoring, and smart city applications.
+
+## Dataset
+This project utilizes the BDD100K (Berkeley DeepDrive 100K) dataset, which contains diverse road scenes captured under varying weather, lighting, and traffic conditions. The dataset includes annotations for multiple traffic-related object classes used for training and evaluation.
+
+## Technology Stack
+- Python
+- Google Colab
+- YOLOv8s
+- OpenCV
+- Ultralytics
+- NumPy
+- Matplotlib
+  
 ## Model Details
 - Model: YOLOv8s (Small Variant)
-- Dataset: BDD100K
 - Classes: 6
-- mAP@0.5: 0.41
-- mAP@0.5:0.95: 0.28
-- FPS: 28–32
-
+- mAP@0.5 = 0.41
+- mAP@0.5:0.95 = 0.28
+- Inference Speed: 28–32 FPS
+  
 ## Applications
 - Intelligent Transportation Systems
 - Traffic Monitoring
@@ -29,8 +43,14 @@ The model is trained on the BDD100K dataset and is designed for real-time traffi
 - Road Safety Analysis
 
 ## Conference Publication
-Accepted (Provisional) at AI-PTIS 2026.
+Accepted (Provisional) at the International Conference on AI-Powered Technology Integration for Sustainability (AI-PTIS 2026).
 
+## Future Work
+- Improve small-object detection accuracy.
+- Enhance performance under adverse weather conditions.
+- Integrate object tracking for continuous vehicle monitoring.
+- Compare performance with additional state-of-the-art detection models.
+  
 ## Project Results
 
 ### Training Results
