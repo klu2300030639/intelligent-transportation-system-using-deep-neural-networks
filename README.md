@@ -17,7 +17,12 @@ The model is trained on the BDD100K dataset and is designed for real-time traffi
 The objective of this project is to develop a real-time traffic object detection system using deep learning techniques to support intelligent transportation systems, traffic monitoring, and smart city applications.
 
 ## Dataset
-This project utilizes the BDD100K (Berkeley DeepDrive 100K) dataset, which contains diverse road scenes captured under varying weather, lighting, and traffic conditions. The dataset includes annotations for multiple traffic-related object classes used for training and evaluation.
+This project uses the **BDD100K (Berkeley DeepDrive 100K)** dataset for training and evaluation.
+
+- **Kaggle Dataset:** https://www.kaggle.com/datasets/marquis03/bdd100k
+- **Dataset:** BDD100K Images
+- **Source:** Berkeley DeepDrive (BDD100K)
+- **Subset Used:** 10,000 images selected for training and validation.
 
 ## Technology Stack
 - Python
