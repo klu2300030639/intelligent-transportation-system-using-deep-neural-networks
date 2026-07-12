@@ -47,8 +47,13 @@ This project uses the **BDD100K (Berkeley DeepDrive 100K)** dataset for training
 - Autonomous Driving
 - Road Safety Analysis
 
-## Conference Publication
-Accepted (Provisional) at the International Conference on AI-Powered Technology Integration for Sustainability (AI-PTIS 2026).
+## 📄 Publication
+
+**Title:** End-to-End Deep Learning Pipeline for Intelligent Transportation System Using Deep Neural Network
+
+**Conference:** 2nd International Conference on AI Powered Technology Integration for Sustainability (AI-PTIS 2026)
+
+**Status:** Accepted for publication in the AIP Conference Proceedings.
 
 ## Future Work
 - Improve small-object detection accuracy.
